@@ -1,5 +1,6 @@
 # Projeto inicial de introdução a programação
 Projeto inicial feito de um jogo de adivinhar o numero feito em parceria com a plataforma Alura
+##
 ![image](https://github.com/user-attachments/assets/2ad479a8-080f-4259-b124-a0d5b8279dda)
 ## Tecnologias usadas
 * HTML
