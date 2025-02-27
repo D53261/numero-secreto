@@ -8,7 +8,7 @@ Projeto inicial feito de um jogo de adivinhar o numero feito em parceria com a p
 * JavaScript
 ## Feito por:
 ### Danilo Ribeiro 
-### Linkedin: https://www.linkedin.com/in/danilo-ribeiro-142962274/
+### Linkedin: https://www.linkedin.com/in/danilo-ribeiro-catroli-da-silva/
 ### Email: danilo051007@gmail.com
 ## Visualização:
 ### Github Pages: https://d53261.github.io/numero-secreto/
